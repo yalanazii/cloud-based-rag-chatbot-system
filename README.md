@@ -12,6 +12,7 @@ This repository contains a secure, serverless Retrieval Augmented Generation (RA
 
 ## 🗂️ Repository Structure
 `Lab-01.md` — Detailed technical report of the project
+
 `assets/` — Screenshots, architecture diagrams, and proof of execution
 
 
